@@ -1,5 +1,7 @@
 # WMI library for modern C++
 
+# THIS PROJECT IS DEPRECATED. I AM WORKING ON A NEW WMI LIBRARY. SEE https://github.com/bozali/wmi
+
 A simple WMI library for C++ 17.
 
 ## Simple example
